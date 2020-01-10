@@ -120,4 +120,4 @@ print(tree.draw(format="unicode"))
 afs = tree_seq.allele_frequency_spectrum(polarised=True, span_normalise=False)
 print(afs)
 
-partitions = write_newick(tree_seq, num_bases, newick_filepath, tree_filepath)
+# partitions = write_newick(tree_seq, num_bases, newick_filepath, tree_filepath)

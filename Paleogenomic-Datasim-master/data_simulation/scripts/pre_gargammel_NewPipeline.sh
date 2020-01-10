@@ -28,7 +28,7 @@ module load seq-gen/1.3.4
 
 echo "The variable 1 is equal to $1"
 python3 py_scripts/Ms_parameters.py $1
-i
+
 # python3 $1/py_scripts/segregating_sites.py $1
 # python3 $1/py_scripts/merge_reference.py $1
 # python3 $1/py_scripts/gen_cases.py $1 $coverages $contaminations

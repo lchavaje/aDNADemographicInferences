@@ -1,7 +1,0 @@
-Traceback (most recent call last):
-  File "py_scripts/Ms_parameters.py", line 123, in <module>
-    partitions = write_newick(tree_seq, num_bases, newick_filepath, tree_filepath)
-  File "py_scripts/Ms_parameters.py", line 17, in write_newick
-    subprocess.run(['msp', 'newick', '--precision', '14', tree_filepath], stdout=newick_file)
-NameError: name 'subprocess' is not defined
-/mnt/Timina/dortega/lchavaje/AncientDNAProject/AncientDNAProject/Scripts/JazepsPipeline/Paleogenomic-Datasim-master/data_simulation/scripts/pre_gargammel_NewPipeline.sh: line 31: i: command not found
