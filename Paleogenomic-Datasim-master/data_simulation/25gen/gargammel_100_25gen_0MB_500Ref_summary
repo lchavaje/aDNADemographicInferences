@@ -1,0 +1,292 @@
+seq-gen segregating sites = 81
+msprime segregating sites = 71
+branch scale factor used = 7.5e-08
+recommended branch scale factor = 6.574074074074074e-08
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_0percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_0percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_0percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_0percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_2percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_2percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_2percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_2percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_5percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_5percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_5percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_5percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_10percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_10percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_10percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_10x_10percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_0percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_0percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_0percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_0percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_2percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_2percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_2percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_2percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_5percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_5percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_5percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_5percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_10percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_10percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_10percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_5x_10percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_0percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_0percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_0percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_0percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_2percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_2percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_2percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_2percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_5percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_5percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_5percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_5percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_10percent_acc:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_10percent_fil_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_10percent_var:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0
+
+Stats for gargammel_100_25gen_0MB_500Ref_1x_10percent_raw_depth:
+Min = 0.0
+Max = 0.0
+Avg = 0.0
+SD = 0.0

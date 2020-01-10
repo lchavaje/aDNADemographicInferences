@@ -1,0 +1,32 @@
+-catch_rsh /cm/local/apps/sge/var/spool/compute-00-05/active_jobs/58514.1/pe_hostfile
+compute-00-05
+The variable 1 is equal to /mnt/Timina/dortega/lchavaje/AncientDNAProject/AncientDNAProject/Scripts/JazepsPipeline/Paleogenomic-Datasim-master/data_simulation/Tests/Msprime_parameters_1.txt
+{'Ne': 10000.0, 'length': 100000.0, 'recombination': 1e-08, 'mutation_rate': 1.5e-08, 'replicates': 100.0, 'modern_samples': 5.0, 'ancient_samples': 3.0, 'time': 1.0}
+10000
+100000
+1e-08
+1.5e-08
+100
+5
+3
+1
+[Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=1), Sample(population=0, time=1), Sample(population=0, time=1)]
+     14        
+  ┏━━━┻━━━┓    
+  ┃      13    
+  ┃     ┏━┻━━┓ 
+ 12     ┃    ┃ 
+┏━┻┓    ┃    ┃ 
+┃  ┃    ┃   11 
+┃  ┃    ┃   ┏┻┓
+┃  ┃   10   ┃ ┃
+┃  ┃  ┏━┻┓  ┃ ┃
+┃  9  ┃  ┃  ┃ ┃
+┃ ┏┻┓ ┃  ┃  ┃ ┃
+┃ ┃ ┃ ┃  8  ┃ ┃
+┃ ┃ ┃ ┃ ┏┻┓ ┃ ┃
+5 6 7 ┃ ┃ ┃ ┃ ┃
+      ┃ ┃ ┃ ┃ ┃
+      1 0 2 3 4
+
+[ 0. 21. 23. 66.  0. 29.  0.  0.  0.]
