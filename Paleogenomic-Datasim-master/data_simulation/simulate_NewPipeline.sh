@@ -1,1 +1,1 @@
-./run_scripts_NewPipeline.sh Tests/Msprime_parameters_1.txt
+./run_scripts_NewPipeline.sh py_scripts/Parameters_test.py

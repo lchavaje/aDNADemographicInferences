@@ -1,8 +1,0 @@
-Ne=10000
-length=100000
-recombination=1e-8
-mutation_rate=1.5e-8
-replicates=100
-modern_samples=5
-ancient_samples=3
-time=1

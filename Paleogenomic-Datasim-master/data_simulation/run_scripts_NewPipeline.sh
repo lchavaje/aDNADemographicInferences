@@ -49,7 +49,7 @@ echo "OK before pre_gargammel"
 
 # pre_gargammel.sh: simulated sequences and directory structure required for gargammel, reference panel creation
 qsub -o "$g_dir"/logs/std/pre_gargammel -e "$g_dir"/logs/err/pre_gargammel \
-	"$g_dir"/scripts/pre_gargammel_NewPipeline.sh $g_dir/$parameter_file
+	"$g_dir"/scripts/pre_gargammel_NewPipeline.sh $g_dir/$parameter_file $g_dir
 
 echo "OK after pre_gargammel"
 

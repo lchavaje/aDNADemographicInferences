@@ -1,32 +1,24 @@
--catch_rsh /cm/local/apps/sge/var/spool/compute-00-00/active_jobs/58545.1/pe_hostfile
-compute-00-00
-The variable 1 is equal to /mnt/Timina/dortega/lchavaje/AncientDNAProject/AncientDNAProject/Scripts/JazepsPipeline/Paleogenomic-Datasim-master/data_simulation/Tests/Msprime_parameters_1.txt
-{'Ne': 10000.0, 'length': 100000.0, 'recombination': 1e-08, 'mutation_rate': 1.5e-08, 'replicates': 100.0, 'modern_samples': 5.0, 'ancient_samples': 3.0, 'time': 1.0}
+-catch_rsh /cm/local/apps/sge/var/spool/compute-00-04/active_jobs/60612.1/pe_hostfile
+compute-00-04
+The variable 1 is equal to /mnt/Timina/dortega/lchavaje/AncientDNAProject/AncientDNAProject/Scripts/JazepsPipeline/Paleogenomic-Datasim-master/data_simulation/py_scripts/Parameters_test.py and the variable 2 is equal to /mnt/Timina/dortega/lchavaje/AncientDNAProject/AncientDNAProject/Scripts/JazepsPipeline/Paleogenomic-Datasim-master/data_simulation
+None
 10000
 100000
 1e-08
+None
 1.5e-08
-100
-5
-3
+[[0, 1e-11], [1e-09, 0]]
+None
+None
+[1, 2]
 1
-[Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=0), Sample(population=0, time=1), Sample(population=0, time=1), Sample(population=0, time=1)]
-  14           
-┏━━┻━━┓        
-┃    13        
-┃  ┏━━┻━━━┓    
-┃  ┃     12    
-┃  ┃    ┏━┻━━┓ 
-┃ 11    ┃    ┃ 
-┃ ┏┻┓   ┃    ┃ 
-┃ ┃ ┃   ┃   10 
-┃ ┃ ┃   ┃   ┏┻┓
-┃ ┃ ┃   9   ┃ ┃
-┃ ┃ ┃ ┏━┻┓  ┃ ┃
-┃ ┃ ┃ ┃  8  ┃ ┃
-┃ ┃ ┃ ┃ ┏┻┓ ┃ ┃
-7 ┃ 5 ┃ ┃ ┃ ┃ 6
-  ┃   ┃ ┃ ┃ ┃  
-  3   4 1 2 0  
-
-[ 0. 26.  2.  5.  0.  0.  0. 11.  0.]
+1
+7e-08
+[Sample(population=0, time=0), Sample(population=1, time=0), Sample(population=1, time=0), Sample(population=0, time=1)]
+[<msprime.simulations.PopulationConfiguration object at 0x2aaab1f0e780>, <msprime.simulations.PopulationConfiguration object at 0x2aaab1f08e80>]
+2744402
+[[0.000000e+00 1.000000e+00 1.373658e+06]
+ [4.600000e+01 0.000000e+00 0.000000e+00]
+ [1.370697e+06 0.000000e+00 0.000000e+00]]
+My variable g_dir is equal to  /mnt/Timina/dortega/lchavaje/AncientDNAProject/AncientDNAProject/Scripts/JazepsPipeline/Paleogenomic-Datasim-master/data_simulation
+[319, 1734, 241, 1180, 2381, 161, 295, 913, 418, 319, 1113, 610, 1891, 252, 179, 2870, 1148, 13, 93, 673, 1012, 1254, 744, 51, 368, 1776, 503, 945, 913, 242, 1487, 139, 266, 923, 844, 1031, 105, 433, 158, 1639, 390, 1170, 27, 882, 888, 294, 30, 1547, 159, 697, 641, 893, 245, 228, 1087, 36, 746, 879, 735, 397, 2, 81, 1987, 1135, 794, 4138, 6038, 1275, 4638, 79, 2038, 2066, 1562, 77, 4576, 78, 221, 49, 1801, 48, 885, 688, 2410, 446, 3436, 609, 894, 2864, 634, 4577, 657, 5565]

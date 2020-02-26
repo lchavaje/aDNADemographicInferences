@@ -26,8 +26,8 @@ module load hdf5/1.8.19
 module load python37/3.7.0
 module load seq-gen/1.3.4
 
-echo "The variable 1 is equal to $1"
-python3 py_scripts/Ms_parameters.py $1
+echo "The variable 1 is equal to $1 and the variable 2 is equal to $2"
+python3 py_scripts/Ms_param_test.py $1 $2
 
 # python3 $1/py_scripts/segregating_sites.py $1
 # python3 $1/py_scripts/merge_reference.py $1
